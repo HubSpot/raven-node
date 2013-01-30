@@ -1,3 +1,7 @@
+# Fork Notes
+
+- Spits out error and stack trace to console when raven catches an exception. 
+
 # Raven [![Build Status](https://secure.travis-ci.org/mattrobenolt/raven-node.png?branch=master)](http://travis-ci.org/mattrobenolt/raven-node)
 **Node v0.9 compatible**
 
